@@ -1,2 +1,0 @@
-# Zenvix
-rewed usdt nyata
