@@ -1,0 +1,13 @@
+{
+  "name": "cato-android",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor-community/admob": "^6.0.0",
+    "@capacitor-firebase/authentication": "^6.0.0",
+    "firebase": "^10.12.0"
+  }
+}
