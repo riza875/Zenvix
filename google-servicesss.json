@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953890448811",
+    "firebase_url": "https://zenvix-3b2ea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zenvix-3b2ea",
+    "storage_bucket": "zenvix-3b2ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953890448811:android:3f4a32b8b777cc5dccdeee",
+        "android_client_info": {
+          "package_name": "com.cato.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953890448811-8dd71ulkbf6gn5oi6q35dodjoog7qtdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cato.app",
+            "certificate_hash": "0ecd9497dcc993e55d96978842957d5cdc86537d"
+          }
+        },
+        {
+          "client_id": "953890448811-jssrtpfdnj72t7r9o8e4t75v3bmtbq4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoctgsf8R1U20v2VaJjtXjrcxKxgY05qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953890448811-jssrtpfdnj72t7r9o8e4t75v3bmtbq4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
