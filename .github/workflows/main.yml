@@ -6,7 +6,7 @@ on:
       - '.github/workflows/main.yml'
 
 env:
-  # ID aplikasi AdMob. Ganti dengan App ID asli (format ca-app-pub-XXXX~YYYY). Ini ID tes dari Google.
+  # Ganti dengan App ID AdMob asli. Ini ID tes dari Google.
   ADMOB_APP_ID: ca-app-pub-3940256099942544~3347511713
 
 jobs:
